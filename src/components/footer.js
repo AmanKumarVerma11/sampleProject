@@ -38,7 +38,7 @@ export default function footer() {
                 </Link>
               </li>
               <li className="m-2">
-                <Link to="/" onClick={scrollToTop}>
+                <Link to="/companyMap" onClick={scrollToTop}>
                   Company map
                 </Link>
               </li>

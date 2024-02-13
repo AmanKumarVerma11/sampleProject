@@ -56,7 +56,7 @@ const Navbar = () => {
                 Developer search
               </span>
             </Link>
-            <Link to="/company-map" className="nav-link m-3">
+            <Link to="/companyMap" className="nav-link m-3">
               <i
                 className="fa-solid fa-location-dot"
                 data-aos="zoom-in"
